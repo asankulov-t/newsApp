@@ -25,7 +25,7 @@ const NavBar = React.memo(() => {
                         <Nav className={s.menu}>
                             <Link onClick={()=>somf('politics')} to="/politics">Politics</Link>
                             <Link onClick={()=>somf('sport')} to="/sport">Sport</Link>
-                            <Link onClick={()=>somf('health')} to="/health">Healths</Link>
+                            <Link onClick={()=>somf('health')} to="/health">Health</Link>
                             <Link onClick={()=>somf('culture')} to="/culture">Culture</Link>
                             <Link onClick={()=>somf('art')} to="/art">Art</Link>
                             <Link onClick={()=>somf('cryptocurrency')} to="/Cryptocurrency">Cryptocurrency</Link>
