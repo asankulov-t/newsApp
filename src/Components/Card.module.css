@@ -1,0 +1,24 @@
+.totalBlock{
+    width: 400px;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+}
+.card img{
+    height: 150px;
+    width: 180px;
+    margin-right: 10px;
+}
+.card h5{
+    font-size: 15px;
+}
+.card p{
+ font-size: 13px;
+    color: darkgray;
+}

@@ -1,0 +1,10 @@
+.spinner{
+    align-items: center;
+    text-align: center;
+    padding: 4em 0;
+}
+.link{
+    text-decoration: underline;
+    cursor: pointer;
+    color: #227bdc;
+}

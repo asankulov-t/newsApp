@@ -1,0 +1,21 @@
+.main{
+    font-weight: bold;
+}
+.menu{
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.menu a{
+    text-decoration: none;
+    color: #3f4142;
+    margin-left: 20px;
+    font-size: 17px;
+    font-weight: bold;
+
+}
+.menu a:hover{
+    color: #4c5abb;
+    transform: translateY(30);
+}
